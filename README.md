@@ -1,4 +1,6 @@
 # Xtreme-Clonk-Launcher
+22.05.2020: Xtreme-Clonk-Launcher is now Open-Source! Have fun :)
+
 This is the official Github for the Xtreme-Clonk-Launcher.
 
 The Xtreme-Clonk-Launcher is a launcher for clonk games.
